@@ -4,7 +4,19 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Senior Web Developer and Tech Founder
 -------------------------------------
 
-I’m a senior web developer and tech content creator with 3+ years of experience. I work with Python, JavaScript, Flask, React, AWS, PostgreSQL, and Docker to build web applications and SaaS products. I also create beginner-friendly tech content, sharing practical tutorials and my build-in-public journey.
+I’m a web developer and founder of Beth Media, with 4+ years of experience building web applications and SaaS products. I enjoy turning ideas into tangible products and sharing my journey with the public.
+
+I’m currently building ClientaHub — a platform designed to help businesses manage clients and operations more efficiently.
+
+-------------------------
+
+What I’m focused on
+
+Building and scaling SaaS products
+
+Writing clean, production-ready code
+
+Teaching and sharing practical tech knowledge
 
 * 🌍  I'm based in Germany
 * ✉️  You can contact me at [tobunfunmilayo@gmail.com](mailto:tobunfunmilayo@gmail.com)
